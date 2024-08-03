@@ -8,7 +8,7 @@ I'm from Italy, currently living in Bari. I'm a Junior Full Stack Developer with
 
 ## 💻 **Technical Skills:**
 - **Languages:** HTML, CSS, JavaScript, Python, PHP (Framework Laravel)
-- **Frameworks:** Laravel, Pandas (for data cleaning)
+- **Frameworks:** Laravel, Pandas (for data cleaning), Bootstrap, Tailwind CSS
 - **Tools & Platforms:** Google Sheets, Tableau, Git, Microsoft Office, Teams, Meet, Drive, Google Cloud
 - **Cybersecurity:** Knowledge of global cybersecurity threats, vulnerability management, and defensive strategies (Cisco Networking Academy)
 
@@ -24,6 +24,7 @@ I'm from Italy, currently living in Bari. I'm a Junior Full Stack Developer with
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952b3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-%234285F4.svg?&style=for-the-badge&logo=google-sheets&logoColor=white)
