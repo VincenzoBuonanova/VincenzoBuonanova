@@ -1,24 +1,32 @@
-# Hi there 👋, I'm Vincenzo!
+# Hi there 👋, I'm Vin
 Welcome to My GitHub Profile!
 
 
 ## 🌐 **About Me:**
-I'm from Italy, currently living in Matera. I'm a Junior Full Stack Developer with a solid background in Object-Oriented programming, Agile Scrum methodology, and generative Artificial Intelligence. My journey in tech began with a deep interest in problem-solving and a desire to create innovative solutions. I'm fluent in Italian and have advanced proficiency in English. My strong foundation in both technical and soft skills, combined with my continuous learning mindset, enables me to adapt to new challenges and technologies with ease.
+I'm from Italy, currently living in Matera. I'm a **Junior Full Stack Developer** with solid foundations in **Object-Oriented programming**, **web application development**, and **Agile Scrum methodologies**, complemented by experience with **generative Artificial Intelligence**.  
+I am fluent in Italian and have advanced proficiency in English. My profile is oriented to **problem-solving**, teamwork, and continuous learning, allowing me to adapt quickly to new technologies and challenges.
 
 
 ## 💻 **Technical Skills:**
-- **Frontend:**
+- **Frontend**
   - **Languages:** HTML, CSS, JavaScript  
-  - **Libraries:** Bootstrap, Tailwind CSS, jQuery  
-  - **Frameworks:** Angular, Vue.js, React, Laravel  
+  - **Frameworks:** Angular, React, Vue.js  
+  - **Libraries / UI:** Bootstrap, jQuery, PrimeNG, Tailwind CSS
 
 - **Backend:**
-  - **Languages:** PHP, Java, JavaScript (Node.js), TypeScript, Python  
-  - **APIs:** REST  
-  - **Databases:** MySQL, MongoDB  
+  - **Languages:** Java, PHP, JavaScript (Node.js), TypeScript, Python  
+  - **Frameworks:** Spring Boot, Laravel  
+  - **APIs:** RESTful API  
+  - **Databases:** MySQL, MongoDB
 
-- **Tools & Platforms:** Git, GitHub, Google Cloud, Google Sheets, Microsoft Office, Teams, Meet, Drive  
-- **Cybersecurity:** Knowledge of global cybersecurity threats, vulnerability management, and defensive strategies (Cisco Networking Academy)  
+- **DevOps & Tools**
+  - Git, GitHub  
+  - Google Cloud Platform  
+  - Google Sheets, Microsoft Office  
+
+- **Cybersecurity**
+  - Knowledge of global cybersecurity threats, vulnerability management, and defensive strategies (Cisco Networking Academy)
+
 
 
 ## ⚡ **Technologies:**
@@ -40,6 +48,7 @@ I'm from Italy, currently living in Matera. I'm a Junior Full Stack Developer wi
 
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -63,7 +72,7 @@ I'm from Italy, currently living in Matera. I'm a Junior Full Stack Developer wi
 
 
 ## 🤝 **Looking to Collaborate:**
-I'm enthusiastic about joining innovative projects and dynamic teams that push the boundaries of web development. If you're working on something exciting and think I could contribute, let's get in touch!  
+I'm enthusiastic about joining innovative projects and dynamic teams that push the boundaries of web development. If you're working on something exciting, let's connect!
 
 
 ## 📫 **How to Reach Me:**
@@ -76,4 +85,4 @@ I'm enthusiastic about joining innovative projects and dynamic teams that push t
 
 
 ## ⚡ **Fun Fact:**
-When I'm not coding, I love playing chess and being a Dungeon Master for Dungeons & Dragons. I also collect models, read books on personal growth, and enjoy manga and manhwa. Spending time in the park fuels my lateral thinking and sparks creative solutions.  
+When I'm not coding, I love playing chess and being a Dungeon Master for Dungeons & Dragons. I also collect models, read books, and chill on manga and manhwa. Time in nature sparks creativity and lateral thinking.
